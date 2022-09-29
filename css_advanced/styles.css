@@ -10,7 +10,7 @@ body {
     background-color: #FFFFFF;
     background: url(/images/backgroundmain.png);
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: top ;
     max-width: 1440px;
     background-size: 1440px 1093px;
     display: flex;
